@@ -1,0 +1,3 @@
+/Users/adelinabeisheeva/Desktop/SupermarketBillingSystem/cmake-build-debug/CMakeFiles/SupermarketBillingSystem.dir
+/Users/adelinabeisheeva/Desktop/SupermarketBillingSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adelinabeisheeva/Desktop/SupermarketBillingSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
